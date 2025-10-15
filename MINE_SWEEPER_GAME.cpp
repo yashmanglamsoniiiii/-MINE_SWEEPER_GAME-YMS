@@ -358,7 +358,7 @@ int main(){
                 // “If there is a row above (i-1 is not negative), then check that cell.”
 
                 //checking for all 8 directions:-
-                if ((i-1)>=0 && ms_board[i-1][j]=='9'){
+                if ((i-1)>=0 && ms_board[i-1][j]=='9'){  //i>0 is also correct ,same with others.
                     count++;
                 }
                 if ((j-1)>=0 && ms_board[i][j-1]=='9'){
@@ -519,6 +519,7 @@ int main(){
         
 return 0;
 }
+
 
 
 
