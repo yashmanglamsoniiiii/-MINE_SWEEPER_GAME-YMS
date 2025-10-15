@@ -224,7 +224,7 @@ void revealOrFlag(vector<vector<char>> &mainBoard,vector<vector<char>> &viewBoar
         
         //CONDN 2: HERE ALSO RANDOM NO. OF CELLS WILL BE DISPLAYED.AFTER THAT WITH VALUE EXCEPT 9 OR MINE.
         
-        viewBoard[ROWS][COLS]=mainBoard[ROWS][COLS];
+        viewBoard[ROWS][COLS]=mainBoard[ROWS][COLS];  // putting that value (just like popping that cell).
         vector<vector<bool>> visited(n,vector<bool> (n,false));
         customPositions(mainBoard,viewBoard , ROWS,COLS,n,visited);
         //print the viewboard:
@@ -519,6 +519,7 @@ int main(){
         
 return 0;
 }
+
 
 
 
