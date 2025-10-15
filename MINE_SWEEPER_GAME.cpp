@@ -1,7 +1,7 @@
 
 
 
-                                      // DESIGN FRAMEWORK:-(blueprint)
+                                      // DESIGN FRAMEWORK:-(blueprint) ~"YMS"
 // 1 . DESIGN CONSOLE
 // 2. TWO BOARDS : MAIN BOARD -> CONTAINING ALL NUMBERS AND MINES 
 //                 VIEW BOARD -> CONTAINING WHAT WE WANNA PRESENT TO USER.
@@ -519,6 +519,7 @@ int main(){
         
 return 0;
 }
+
 
 
 
