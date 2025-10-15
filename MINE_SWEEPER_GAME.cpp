@@ -402,7 +402,7 @@ int main(){
                 cin>> ROWS>>COLS;
                 //proceed to next........ code
                 //checking for mine 💣 firstly before REVEALING.
-                if(ms_board[ROWS-1][COLS-1]=='9'){
+                if(ch=='r' && ms_board[ROWS-1][COLS-1]=='9'){
                     cout<<"BOOM !!! GAME OVER!!! :("<<endl;
                     showMines(ms_board,view);
                     return 0;
@@ -519,6 +519,7 @@ int main(){
         
 return 0;
 }
+
 
 
 
