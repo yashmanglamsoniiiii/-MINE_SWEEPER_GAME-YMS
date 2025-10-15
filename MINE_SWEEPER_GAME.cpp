@@ -323,6 +323,7 @@ int main(){
         //               cout << rand() % 10;   // random number from 0–9
 
     //code for random mines.
+  srand(time(0));  //without this code works fine but mines hamesha same jagah place hongi.
     int placed=0;
     while(placed<mines){
         int random_rows=rand()%n;//random rows
@@ -518,6 +519,7 @@ int main(){
         
 return 0;
 }
+
 
 
 
