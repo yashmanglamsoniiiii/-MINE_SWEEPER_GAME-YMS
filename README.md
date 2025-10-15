@@ -1,5 +1,5 @@
 # <MINE_SWEEPER_GAME> ~"YMS"
-I created my first game using dsa logics , and it was a whole new experience to learn something new which obviously helped to improve my lopics and critical thinking abiltiy.
+I created my first game using dsa logics , and it was a whole new experience to learn something new which obviously helped to improve my topics and critical thinking abiltiy.
 The GAME description:-
 
 💣 Minesweeper Game in C++
