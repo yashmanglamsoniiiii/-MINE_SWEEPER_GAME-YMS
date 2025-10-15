@@ -1,3 +1,6 @@
+                              // This is a clean and formatted code .
+    // This is a clean and formatted code (no further description & explanation of the code about functions and 
+        //   the logics + intuition +approach . For that checkout :- <MINE_SWEEPER_GAME> ~"YMS" ) .
 
 
 
@@ -244,4 +247,5 @@ int main(){
             }
         }
     return 0;
+
 }
