@@ -45,6 +45,7 @@ If all non-mine cells are revealed → You Win! 🎉
 
 2D Vectors for board representation
 
+
 Randomization using rand() and srand(time(0))
 
 Recursion for revealing empty areas
@@ -52,3 +53,5 @@ Recursion for revealing empty areas
 Visited Matrix to avoid infinite recursion
 
 Input Validation for 1-based indexing
+
+🔗Here's a vedio link how this works just like a REAL WORLD ACTUAL GAME WITH NO ERRORS AND SMOOTHLY : [  https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7384491959647916032?compact=1%22%20height=%22399%22%20width=%22504%22%20frameborder=%220%22%20allowfullscreen=%22%22%20title=%22Embedded%20post%22%3E ]
